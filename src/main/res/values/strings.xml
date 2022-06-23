@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlatformPro</string>
+    <string name="hi_abobus">ddos program</string>
+    <string name="hint_site">www.example.com</string>
+    <string name="text_btn_ddos">start ddos</string>
+    <string name="no_site">Enter the site</string>
+</resources>
